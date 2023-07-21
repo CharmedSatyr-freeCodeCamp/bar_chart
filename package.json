@@ -1,0 +1,26 @@
+{
+  "name": "bar_chart",
+  "version": "0.0.1",
+  "description": "freeCodeCamp Data Visualization Projects - Visualize Data with a Bar Chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charmedsatyr-freecodecamp/bar_chart.git"
+  },
+  "keywords": [],
+  "author": "CharmedSatyr <z@charmed.tech>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/charmedsatyr-freecodecamp/bar_chart/issues"
+  },
+  "homepage": "https://github.com/charmedsatyr-freecodecamp/bar_chart#readme",
+  "dependencies": {
+    "d3": "^5.9.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
